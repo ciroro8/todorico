@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name=Ciro Galeano>
+  <meta name="Keywords"content="TODO RICO">
+	<title> TODO RICO </title>
+	<link rel="stylesheet" type="text/css" href="TR.css" />
+</head>
+<body>
+    <h1>TODO RICO</h1>
+    <center>
+       <img src="https://st2.depositphotos.com/1341440/7182/v/950/depositphotos_71824861-stock-illustration-chef-hat-vector-black-silhouette.jpg" width="100" height="100"  alt=""> 
+    </center>
+    <nav>
+
+        <ul>
+        <li><a href="#">Carnes</a></li>
+        <li><a href="#">Vegetariano</a></li>
+        <li><a href="#">Vegano</a></li>
+        <li><a href="#">Contacto</a></li>
+       </ul>
+   </nav>
+   <table class="table" width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+      <tr>
+        <th>Tu consulta no nos molesta!</th>
+        <th>También contamos con:</th>
+      </tr>
+   
+      <td>
+        <div class="galeria" style="--w: 300px; --h: 360px;">
+          <input type="radio" name="navegacion" id="_1" checked>
+          <input type="radio" name="navegacion" id="_2">
+          <input type="radio" name="navegacion" id="_3">
+          <input type="radio" name="navegacion" id="_4">
+          <input type="radio" name="navegacion" id="_5">
+    
+           <img src="https://www.hazteveg.com/img/recipes/full/201712/R28-19863.jpg" width="300" height="350" alt="Galeria CSS 1" />
+           <img src="https://www.hazteveg.com/img/recipes/full/202004/R09-30908.jpg" width="300" height="350" alt="Galeria CSS 2"  />
+           <img src="https://i.pinimg.com/564x/1c/e6/34/1ce634d7de4418836cba2fdb43f7bbb0.jpg" width="300" height="350" alt="Galeria CSS 3" />
+           <img src="https://i.pinimg.com/236x/8c/39/6b/8c396bad91b477379e552c89ee80ba25.jpg" width="300" height="350" alt="Galeria CSS 4" />
+           <img src="https://www.divinacocina.es/wp-content/uploads/VERDURAS-ASADAS-2.jpg" width="300" height="350" alt="Galeria CSS 5" />
+        </div>
+      </td>
+      <td>
+        <ul>
+          <li>comida sin taac</li>
+          <li>Sal baja en sodio</li>
+          <li>Jugos naturales</li>
+        </ul>
+      </td>
+    </table>
+<br>
+<p> Solo hacemos envíos a domicilio! contactanos por:</p>
+<p>Teléfono: 0261 665-3090</p>
+ <center>
+  <a href="https://api.whatsapp.com/send?phone=+54 261 665-3090"><img src= "https://es.logodownload.org/wp-content/uploads/2018/10/whatsapp-logo-11-1019x1024.png" width="40" height="40" align="center"></a>
+  <a href = "https://www.facebook.com/todoricojuntoavos/" >   <img src= "http://assets.stickpng.com/images/584ac2d03ac3a570f94a666d.png" width="40" height="40" align="middle" > </a>
+</center>
+
+</body>
